@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "349188870762",
+    "firebase_url": "https://control-gps-ff59e.firebaseio.com",
+    "project_id": "control-gps-ff59e",
+    "storage_bucket": "control-gps-ff59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349188870762:android:b00a4fee8fad5482",
+        "android_client_info": {
+          "package_name": "com.example.bonex.controlgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349188870762-igo25roa6l2k4fum9vndtsljf3jvcmpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWvXxaIYeP3Y1BaFEqkJC67gk-8Xmh3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
